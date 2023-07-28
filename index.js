@@ -76,4 +76,4 @@ function handleScroll() {
   }
 }
 
-document.addEventListener("scroll", throttle(handleScroll, 100));
+document.addEventListener("scroll", throttle(handleScroll, 140));
